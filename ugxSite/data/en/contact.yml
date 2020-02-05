@@ -1,0 +1,22 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : We are located at the [EnterpriseWorks-Incubator](https://researchpark.illinois.edu/locate-here/enterpriseworks-incubator/) Building at the [Research Park](https://researchpark.illinois.edu/) of UIUC
+  form_action: "#" #contact form works with https://formspree.io
+
+  contact_details :
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "60 Hazelwood Dr., Rm.214, Champaign, IL, USA "
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone:#"
+      
+    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+      info : "#"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: info@umbrellagenetics.com"
+      
+      

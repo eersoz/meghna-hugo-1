@@ -1,0 +1,32 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : We Integrate YOUR Data to Answer YOUR Questions.
+  content : "The Agriculture Industry is undergoing a digital transformation. Although technology has brought about great improvements within the industry, growers still struggle to get answers to very simple operational questions that can significantly impact their bottom lines. Although there are various Digital Agriculture products and platforms available, none of them are sufficiently personalized to answer individual questions of a given grower.We offer hyper-personalized model-driven, machine learning analytics and reporting to specifically answer your questions."
+  feature_item : 
+      # feature item loop
+    - title : Seasonal and Geographical Location Characterization
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Geospatial Data
+      
+      # feature item loop
+    - title : Crop-Rotational Influences 
+      icon : ti-shine # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+      # feature item loop
+    - title : Climate-Change Adapted Productivity Projections
+      icon : ti-control-forward # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      
+      # feature item loop
+    - title : Location Specific Productivity Predictions 
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      
+            # feature item loop
+    - title : Seed Variety and Genetics Recommendations for Optimum Return on Investment 
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Integrated Data Technologies for your Digital Agriculture Operation"
+  content : "Whatever your needs for your Digital Agriculture operation, we got you covered!"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#services"
