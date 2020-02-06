@@ -9,7 +9,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = [fr]# figure this out
 
 ############################# Plugins ##########################
 # css plugins
@@ -84,7 +84,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/fav-logo-small.png"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
