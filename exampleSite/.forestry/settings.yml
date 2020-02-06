@@ -4,25 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Blog Post
-- type: directory
-  path: ugxSite/content/english/blog
-  label: Post (en)
-  create: documents
+- type: document
+  path: ugxSite/public
+  label: public files
   match: "**/*"
-  new_doc_ext: '20191203072044'
-  templates:
-  - post
-- type: directory
-  path: ugxSite/content/french/blog
-  label: Post (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-- type: heading
-  label: Author
 - type: directory
   path: ugxSite/content/english/author
   label: Author (en)
